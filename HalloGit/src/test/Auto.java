@@ -7,6 +7,7 @@ public class Auto {
 	private String marke;
 	private BigDecimal preis;
 	private String zusatz;
+	private boolean diesel;
 	
 	
 }
