@@ -5,7 +5,7 @@ package test;
 public class Bus {
 	private int anzahl;
 	private String linie;
-	private boolean diesel;
+	private boolean diesel44;
 	private int gewicht;
 
 	public int getAnzahl() {
