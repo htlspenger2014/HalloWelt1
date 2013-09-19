@@ -5,8 +5,8 @@ package test;
 public class Bus {
 	private int anzahl;
 	private String linie;
-	private boolean diesel;
-	private int gewicht;
+	private boolean die3sel;
+	private int gewicht33;
 
 	public int getAnzahl() {
 		return anzahl;
