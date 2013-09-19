@@ -4,6 +4,7 @@ package test;
 
 public class Bus {
 	private int anzahl;
+	private String linie;
 
 	public int getAnzahl() {
 		return anzahl;
