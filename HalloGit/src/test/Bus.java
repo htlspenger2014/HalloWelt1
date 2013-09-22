@@ -7,7 +7,7 @@ public class Bus {
 	private String linie;
 	private boolean diesel44;
 	private int gewicht;
-	private int t5;
+	private int t6;
 
 	public int getAnzahl() {
 		return anzahl;
